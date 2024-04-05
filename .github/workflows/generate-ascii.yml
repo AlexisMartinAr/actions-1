@@ -23,4 +23,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - name: Verify
-        run: cat dragon.txt
+          run: cat dragon.txt
